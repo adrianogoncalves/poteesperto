@@ -2,7 +2,7 @@
 #include <PubSubClient.h> //Importa biblioteca MQTT
 
 #define SSID_REDE     "iPhone de Adriano"  //coloque aqui o nome da rede que se deseja conectar
-#define SENHA_REDE    "liviagoncalves"  //coloque aqui a senha da rede que se deseja conectar
+#define SENHA_REDE    "senhawifi123"  //coloque aqui a senha da rede que se deseja conectar
 
 #define ID_MQTT "poteesperto"
 #define MQTT_SERVER "iot2017.nc2.iff.edu.br"
